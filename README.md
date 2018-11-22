@@ -25,7 +25,7 @@
 
 The input:
 
-```javascript
+`javascript
 function binarySearch(X, V, n){
      let low, high, mid;
      low = 0;
